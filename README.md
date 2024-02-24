@@ -5,7 +5,7 @@ It is static page made with HTML and CSS.
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+[git clone https://github.com/your-username/your-repo.git](https://github.com/Hardik1626/MicroProject1.git)
 ```
 Navigate to the project directory:
 
