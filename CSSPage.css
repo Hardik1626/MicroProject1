@@ -1,0 +1,61 @@
+.Parent{
+    /* margin: 150px; */
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 200px;
+    margin-right: 200px; 
+    border: 2px solid #282828;
+}
+#Heading1{
+    font-size: 2.5em;
+    color: #282828;
+}
+#para1{
+    font-size: 1.75em;
+    color: #484848;
+
+}
+.Parent1{
+    background-color: #FFCD9E;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+button{
+    background-color: #282828;
+    color: white;
+    padding: 1.10em;
+    border-radius: 8px;
+}
+.Child1{
+    width: 40vw;
+}
+#para2{color: #FFFFFF;}
+input{
+    border: solid black;
+    height: 38px;
+    width: 250px;
+    border-radius: 8px;
+}
+.Lower{
+    background-color:#282828;
+    height: 200px;
+    color: #FFFFFF;
+    font-style: inter;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* font-size: 17px; */
+    font-size: 1em;
+}
+ul {
+    list-style-type: none;
+    margin-top: 40px;
+}
+.F1{
+    margin-left: 5em;
+}
+.F2{
+    margin-right: 15em;
+    text-align: right;
+}
